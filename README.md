@@ -14,7 +14,7 @@ permalink: /about/
 ## News
 - One paper (co-author) is accepted to *WISA 2025*.
 - One paper is under review to *Pattern Recognition*.
-- One paper is under review to *Information Science*.
+- One paper is under review to *Information Sciences*.
 - One paper is accepted to *ICME 2025*.
 
 ## Contact

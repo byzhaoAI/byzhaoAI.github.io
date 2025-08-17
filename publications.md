@@ -12,7 +12,7 @@ permalink: /publications/
 - **Binyu Zhao**, Jinbao Li<sup>✉</sup>, Qianqian Ren<sup>✉</sup>, Yingli Zhong. Unsupervised Reused Convolutional Network for Metal Artifact Reduction. In *International Conference on Neural Information Processing (ICONIP)*, 2020. [[DOI]](https://doi.org/10.1007/978-3-030-63820-7_67)
 
 ## Other First-Author
-- **Binyu Zhao**, Wei Zhang✉, Panyu Peng. LiDAR-Interacted and Self-Guided Further Scene Parsing for Road Detection. In *2021 IEEE International Conference on Unmanned Systems (ICUS)*, 2021. [[DOI]](https://doi.org/10.1109/ICUS52573.2021.9641315)
+- **Binyu Zhao**, Wei Zhang<sup>✉</sup>, Panyu Peng. LiDAR-Interacted and Self-Guided Further Scene Parsing for Road Detection. In *2021 IEEE International Conference on Unmanned Systems (ICUS)*, 2021. [[DOI]](https://doi.org/10.1109/ICUS52573.2021.9641315)
 
 ## Co-Author
 

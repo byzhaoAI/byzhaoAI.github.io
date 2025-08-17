@@ -1,0 +1,25 @@
+---
+layout: page
+title: About Me
+permalink: /about/
+---
+
+**Binyu Zhao** is currently pursuing his PhD in Electronic Information Engineering at Harbin Institute of Technology (HIT). He is supervised by Prof. Wei Zhang and Prof. Zhaonian Zou. His research mainly focus on:
+
+- Multi-Agent Systems
+- Robotics
+- Embodided AI
+- Signal Processing
+
+## News
+- One paper is accepted to *WISA 2025*.
+- One paper is under review to *Pattern Recognition*.
+- One paper is under review to *Information Science*.
+- One paper is accepted to *ICME 2025*.
+
+## Contact
+- Email: binyu-zhao@outlook.com
+- GitHub: [byzhaoAI](https://github.com/byzhaoAI)
+
+## More
+<!-- Feel free to explore my articles and projects on this site! -->

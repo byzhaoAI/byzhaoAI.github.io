@@ -12,7 +12,7 @@ permalink: /about/
 - Signal Processing
 
 ## News
-- One paper is accepted to *WISA 2025*.
+- One paper (co-author) is accepted to *WISA 2025*.
 - One paper is under review to *Pattern Recognition*.
 - One paper is under review to *Information Science*.
 - One paper is accepted to *ICME 2025*.

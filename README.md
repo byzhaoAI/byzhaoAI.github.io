@@ -12,10 +12,10 @@ permalink: /about/
 - Signal Processing
 
 ## News
-- One paper (co-author) is accepted to *WISA 2025* (August 15).
-- One paper is under review to *Pattern Recognition* (May 25).
-- One paper is under review to *Information Sciences* (April 02).
-- One paper is accepted to *ICME 2025* (March 21).
+- One paper (co-author) is accepted by *WISA 2025* (August 15).
+- One paper is under review at *Pattern Recognition* (May 25).
+- One paper is under review at *Information Sciences* (April 02).
+- One paper is accepted by *ICME 2025* (March 21).
 
 ## Contact
 - Email: binyu-zhao@outlook.com

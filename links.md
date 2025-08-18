@@ -8,4 +8,4 @@ permalink: /links/
 - [ORCID](https://orcid.org/0000-0002-9564-6757)
 - [GitHub](https://github.com/byzhaoAI)
 - [DBLP](https://dblp.org/pid/279/0619.html)
-
+- [Web of Science](https://webofscience.clarivate.cn/wos/author/record/60305941)

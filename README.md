@@ -12,7 +12,7 @@ permalink: /about/
 - Signal Processing
 
 ## News
-- One patent is entered the substantive examination phase at the *CNIPA* (September 17).
+- Three patents are entered the substantive examination phase at the *CNIPA* (September 23).
 - One paper is resubmitted to *Pattern Recognition* after a major revision (initially submitted May 25; resubmitted September 07).
 - One paper (co-author) is accepted by *WISA 2025* (August 15).
 - One paper is under review at *Information Sciences* (April 02).

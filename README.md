@@ -12,11 +12,12 @@ permalink: /about/
 - Signal Processing
 
 ## News
+- One paper is accepted by *Pattern Recognition* (October 08)!
 - Three patents are entered the substantive examination phase at the *CNIPA* (September 23).
-- One paper is resubmitted to *Pattern Recognition* after a major revision (initially submitted May 25; resubmitted September 07).
 - One paper (co-author) is accepted by *WISA 2025* (August 15).
 - One paper is under review at *Information Sciences* (April 02).
 - One paper is accepted by *ICME 2025* (March 21).
+<!-- - One paper is resubmitted to *Pattern Recognition* after a major revision (initially submitted May 25; resubmitted September 07). -->
 
 ## Contact
 - Email: binyu-zhao@outlook.com

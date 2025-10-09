@@ -10,6 +10,7 @@ permalink: /service/
 - APNNS member
 - CoRL community member
 - IEEE student member
+- IEEE Young Professionals
 - IEEE SPS member
 - IEEE SPS Image, Video, and Multidimensional Signal Processing (IVMSP) Technical Committee (TC) Affiliates
 - IEEE SPS Multimedia Signal Processing (MMSP) Technical Committee (TC) Affiliates

@@ -4,6 +4,8 @@ title: Awards
 permalink: /awards/
 ---
 
+## In 2025
+
 ## In 2024
 - Outstanding Student Award - "Practical Action" Honor (Recognized as "Advanced Collective and Individual" for exemplary leadership and pragmatic dedication)
 

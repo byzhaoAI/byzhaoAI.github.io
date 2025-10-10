@@ -5,14 +5,14 @@ permalink: /awards/
 ---
 
 ## In 2025
-- Outstanding Student Exemplar Award, Harbin Institute of Technology
+- Outstanding Student Exemplar (优秀学生标兵), Harbin Institute of Technology
 
 ## In 2024
-- Outstanding Student "Practical Action" Award, Harbin Institute of Technology
+- Outstanding Student "Practical Action" (优秀学生[实学实干]), Harbin Institute of Technology
 
 ## In 2023
-- "Merit Student" Award, Heilongjiang Province
+- "Merit Student" (三好学生), Heilongjiang Province
 
 ## In 2020
-- "Merit Student" Award, Heilongjiang University
-- First-Class Graduate Academic Scholarship, Heilongjiang University
+- "Merit Student" (三好学生), Heilongjiang University
+- First-Class Graduate Academic Scholarship (研究生一等学业奖学金), Heilongjiang University

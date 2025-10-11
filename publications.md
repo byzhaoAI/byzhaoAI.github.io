@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ## Selective
-- **Binyu Zhao**, Wei Zhang<sup>✉</sup>, Zhaonian Zou. MCE: Towards a General Framework for Handling Missing Modalities under Imbalanced Missing Rates. *Pattern Recognition*, 2025. [[DOI]]()
+- **Binyu Zhao**<sup>✉</sup>, Wei Zhang<sup>✉</sup>, Zhaonian Zou. MCE: Towards a General Framework for Handling Missing Modalities under Imbalanced Missing Rates. *Pattern Recognition*, 2025. [[DOI]]()
 
 - **Binyu Zhao**, Wei Zhang<sup>✉</sup>, Zhaonian Zou. BM2CP: Efficient Collaborative Perception with LiDAR-Camera Modalities. In *The 7th Conference on Robot Learning (CoRL)*, 2023. [[URI]](https://proceedings.mlr.press/v229/zhao23a.html) [[OpenReview]](https://openreview.net/forum?id=uJqxFjF1xWp) [[Arxiv]](https://arxiv.org/abs/2310.14702) [[Code]](https://github.com/byzhaoAI/BM2CP)
 

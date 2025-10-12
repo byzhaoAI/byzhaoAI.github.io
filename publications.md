@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ## Selective
-- **Binyu Zhao**<sup>✉</sup>, Wei Zhang<sup>✉</sup>, Zhaonian Zou. MCE: Towards a General Framework for Handling Missing Modalities under Imbalanced Missing Rates. *Pattern Recognition*, 2025. [[DOI]]()
+- **Binyu Zhao**<sup>✉</sup>, Wei Zhang<sup>✉</sup>, Zhaonian Zou. MCE: Towards a General Framework for Handling Missing Modalities under Imbalanced Missing Rates. *Pattern Recognition*, 2025. [[DOI]](https://doi.org/10.1016/j.patcog.2025.112591) [[Arxiv]]() [[Code]]()
 
 - **Binyu Zhao**, Wei Zhang<sup>✉</sup>, Zhaonian Zou. BM2CP: Efficient Collaborative Perception with LiDAR-Camera Modalities. In *The 7th Conference on Robot Learning (CoRL)*, 2023. [[URI]](https://proceedings.mlr.press/v229/zhao23a.html) [[OpenReview]](https://openreview.net/forum?id=uJqxFjF1xWp) [[Arxiv]](https://arxiv.org/abs/2310.14702) [[Code]](https://github.com/byzhaoAI/BM2CP)
 
@@ -13,7 +13,7 @@ permalink: /publications/
 
 
 ## Other First-Author
-- **Binyu Zhao**, Wei Zhang<sup>✉</sup>, Zhaonian Zou. ExGAT: Build Explicit Dependencies for Incomplete Multi-Modal Learning via Graph Attention Network. In *2025 IEEE International Conference on Multimedia and Expo (ICME)*, 2025. [[DOI]]() [[Code]](https://github.com/byzhaoAI/ExGAT)
+- **Binyu Zhao**, Wei Zhang<sup>✉</sup>, Zhaonian Zou. ExGAT: Build Explicit Dependencies for Incomplete Multi-Modal Learning via Graph Attention Network. In *2025 IEEE International Conference on Multimedia and Expo (ICME)*, 2025. [[DOI]]() [[Arxiv]]() [[Code]](https://github.com/byzhaoAI/ExGAT)
 
 - **Binyu Zhao**, Wei Zhang<sup>✉</sup>, Zhaonian Zou. Distance-Aware Attentive Framework for Multi-Agent Collaborative Perception in Presence of Pose Error. In *The 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*, 2024. [[URI]](https://dl.acm.org/doi/abs/10.5555/3635637.3663242)
 

@@ -6,7 +6,7 @@ permalink: /awards/
 
 ## In 2025
 - Outstanding Student Exemplar (优秀学生标兵), Harbin Institute of Technology
-- National Scholarship for Graduate Students (研究生国家奖学金), Harbin Institute of Technology
+- National Scholarship for Graduate Students (研究生国家奖学金)
 
 ## In 2024
 - Outstanding Student "Practical Action" (优秀学生[实学实干]), Harbin Institute of Technology

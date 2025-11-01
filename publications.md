@@ -13,7 +13,7 @@ permalink: /publications/
 
 
 ## Other First-Author
-- **Binyu Zhao**, Wei Zhang<sup>✉</sup>, Zhaonian Zou. ExGAT: Build Explicit Dependencies for Incomplete Multi-Modal Learning via Graph Attention Network. In *2025 IEEE International Conference on Multimedia and Expo (ICME)*, 2025. [~~[DOI]~~]() [[Code]](https://github.com/byzhaoAI/ExGAT)
+- **Binyu Zhao**, Wei Zhang<sup>✉</sup>, Zhaonian Zou. ExGAT: Build Explicit Dependencies for Incomplete Multi-Modal Learning via Graph Attention Network. In *2025 IEEE International Conference on Multimedia and Expo (ICME)*, 2025. [[DOI]](https://doi.org/10.1109/ICME59968.2025.11209190) [[Code]](https://github.com/byzhaoAI/ExGAT)
 
 - **Binyu Zhao**, Wei Zhang<sup>✉</sup>, Zhaonian Zou. Distance-Aware Attentive Framework for Multi-Agent Collaborative Perception in Presence of Pose Error. In *The 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*, 2024. [[URI]](https://dl.acm.org/doi/abs/10.5555/3635637.3663242)
 

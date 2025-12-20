@@ -6,6 +6,7 @@ permalink: /awards/
 
 ## In 2025
 - Outstanding Student Exemplar (优秀学生标兵), Harbin Institute of Technology
+- "Merit Student" (三好学生), Heilongjiang Province
 - National Scholarship for Graduate Students (研究生国家奖学金)
 
 ## In 2024

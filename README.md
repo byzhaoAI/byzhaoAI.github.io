@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-**Binyu Zhao** is currently pursuing his PhD in Electronic Information Engineering at Harbin Institute of Technology (HIT). He is supervised by Prof. Wei Zhang and Prof. Zhaonian Zou. His research mainly focus on:
+**Binyu Zhao** is currently pursuing his PhD in Electronic Information Engineering at Harbin Institute of Technology (HIT). He is supervised by Prof. [Wei Zhang](https://homepage.hit.edu.cn/zhangweics) and Prof. [Zhaonian Zou](https://homepage.hit.edu.cn/zou). And he is collaborating with [Xingrui Yu](https://xingruiyu.github.io/) on joint research projects. His research mainly focus on:
 
 - Multi-Agent Systems
 - Robotics

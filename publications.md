@@ -23,7 +23,7 @@ permalink: /publications/
 
 
 ## Co-Author
-- Yunbo Yu, **Binyu Zhao**, Wei Zhang<sup>✉</sup>. Towards More Robust Perceptual Information Collaboration for Multi-Agent Decision-Making Systems in Presence of Mixed Real-World Factors. In *The 22th International Conference on Web Information Systems and Applications (WISA)*, 2025. [~~[DOI]~~]()
+- Yunbo Yu, **Binyu Zhao**, Wei Zhang<sup>✉</sup>. Towards More Robust Perceptual Information Collaboration for Multi-Agent Decision-Making Systems in Presence of Mixed Real-World Factors. In *The 22th International Conference on Web Information Systems and Applications (WISA)*, 2025. [~~[DOI]~~]() [[Book WISA]](https://link.springer.com/book/9789819564255)
 
 - Wei Han<sup>✉</sup>, **Binyu Zhao**, Jun Luo. Towards Smaller and Stronger: An Edge-Aware Lightweight Segmentation Approach for Unmanned Surface Vehicles in Water Scenarios. *Sensors*, 2023. [[DOI]](https://doi.org/10.3390/s23104789)
 

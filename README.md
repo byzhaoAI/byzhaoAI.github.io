@@ -12,8 +12,8 @@ permalink: /about/
 - Signal Processing
 
 ## News
+- One paper is resubmitted to *Information Sciences* after a minor revision (initially submitted Apr 02, 2025; resubmitted Dec 14, 2025; 2nd resubmitted Jan 18, 2026; 3rd resubmitted Mar 25, 2026).
 - One paper is submitted to *ICML2026* (Jan 29, 2026).
-- One paper is resubmitted to *Information Sciences* after a minor revision (initially submitted Apr 02, 2025; resubmitted Dec 14, 2025; 2nd resubmitted Jan 18, 2026).
 - One paper is published in *Pattern Recognition* (Nov 08, 2025).
 <!-- - One paper is resubmitted to *Information Sciences* after a major revision (initially submitted April 02; resubmitted December 14). -->
 <!-- - One paper is published in *Pattern Recognition* (November 08). The final version is available via [DOI](https://doi.org/10.1016/j.patcog.2025.112591), or for 50 days' free access via this [Share Link](https://authors.elsevier.com/a/1m40D77nKsBm-) (valid until December 28, 2025). -->

@@ -11,8 +11,6 @@ permalink: /publications/
 
 - **Binyu Zhao**, Wei Zhang<sup>✉</sup>, Zhaonian Zou. BM2CP: Efficient Collaborative Perception with LiDAR-Camera Modalities. In *The 7th Conference on Robot Learning (CoRL)*, 2023. [[URI]](https://proceedings.mlr.press/v229/zhao23a.html) [[OpenReview]](https://openreview.net/forum?id=uJqxFjF1xWp) [[Arxiv]](https://arxiv.org/abs/2310.14702) [[Code]](https://github.com/byzhaoAI/BM2CP)
 
-- **Binyu Zhao**, Jinbao Li<sup>✉</sup>, Qianqian Ren<sup>✉</sup>, Yingli Zhong. Unsupervised Reused Convolutional Network for Metal Artifact Reduction. In *The 27th International Conference on Neural Information Processing (ICONIP)*, 2020. [[DOI]](https://doi.org/10.1007/978-3-030-63820-7_67)
-
 
 ## Other First-Author
 - **Binyu Zhao**, Wei Zhang<sup>✉</sup>, Zhaonian Zou. ExGAT: Build Explicit Dependencies for Incomplete Multi-Modal Learning via Graph Attention Network. In *2025 IEEE International Conference on Multimedia and Expo (ICME)*, 2025. [[DOI]](https://doi.org/10.1109/ICME59968.2025.11209190) [[Code]](https://github.com/byzhaoAI/ExGAT)
@@ -22,6 +20,8 @@ permalink: /publications/
 - **Binyu Zhao**, Wei Zhang<sup>✉</sup>, Panyu Peng. LiDAR-Interacted and Self-Guided Further Scene Parsing for Road Detection. In *2021 IEEE International Conference on Unmanned Systems (ICUS)*, 2021. [[DOI]](https://doi.org/10.1109/ICUS52573.2021.9641315)
 
 - **Binyu Zhao**, Qianqian Ren<sup>✉</sup>, Jinbao Li, Yafeng Zhao. Attention-Embedded Decomposed Network with Unpaired CT Images Prior for Metal Artifact Reduction. In *2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2021. [[DOI]](https://doi.org/10.1109/ICASSP39728.2021.9413578)
+
+- **Binyu Zhao**, Jinbao Li<sup>✉</sup>, Qianqian Ren<sup>✉</sup>, Yingli Zhong. Unsupervised Reused Convolutional Network for Metal Artifact Reduction. In *The 27th International Conference on Neural Information Processing (ICONIP)*, 2020. [[DOI]](https://doi.org/10.1007/978-3-030-63820-7_67)
 
 
 ## Co-Author

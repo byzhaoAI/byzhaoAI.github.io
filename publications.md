@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ## Representative First-Author
-- **Binyu Zhao**<sup>✉</sup>, Wei Zhang<sup>✉</sup>, Zhaonian Zou. Facilitating Heterogeneous Sensor Information Cooperation in Multi-Agent Perception System. *Information Sciences*, 2026. ~~[DOI]~~ ~~[Code]~~
+- **Binyu Zhao**<sup>✉</sup>, Wei Zhang<sup>✉</sup>, Zhaonian Zou. Facilitating Heterogeneous Sensor Information Cooperation in Multi-Agent Perception System. *Information Sciences*, 2026. [[DOI]](https://doi.org/10.1016/j.ins.2026.123529) [[Code]](https://github.com/byzhaoAI/DisCo)
 
 - **Binyu Zhao**<sup>✉</sup>, Wei Zhang<sup>✉</sup>, Zhaonian Zou. MCE: Towards a General Framework for Handling Missing Modalities under Imbalanced Missing Rates. *Pattern Recognition*, 2025. [[DOI]](https://doi.org/10.1016/j.patcog.2025.112591) [[Arxiv]](https://arxiv.org/abs/2510.10534) [[Code]](https://github.com/byzhaoAI/MCE)
 

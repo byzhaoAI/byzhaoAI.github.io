@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ## Representative First-Author
-- **Binyu Zhao**<sup>✉</sup>, Wei Zhang<sup>✉</sup>, Zhaonian Zou. Facilitating Heterogeneous Sensor Information Cooperation in Multi-Agent Perception System. *Information Sciences*, 2026. [[DOI]](https://doi.org/10.1016/j.ins.2026.123529) [[Code]](https://github.com/byzhaoAI/DisCo)
+- Binyu Zhao, Wei Zhang, Xingrui Yu, Zhaonian Zou, Ivor Tsang. Advancing Analytic Class-Incremental Learning through Vision-Language Calibration. In *International Conference on Machine Learning (ICML)*, 2026. [~~[URI]~~]() [~~[OpenReview]~~]() [[Arxiv]](https://arxiv.org/abs/2602.13670) [[Code]](https://github.com/byzhaoAI/VILA)
 
 - **Binyu Zhao**<sup>✉</sup>, Wei Zhang<sup>✉</sup>, Zhaonian Zou. MCE: Towards a General Framework for Handling Missing Modalities under Imbalanced Missing Rates. *Pattern Recognition*, 2025. [[DOI]](https://doi.org/10.1016/j.patcog.2025.112591) [[Arxiv]](https://arxiv.org/abs/2510.10534) [[Code]](https://github.com/byzhaoAI/MCE)
 
@@ -13,6 +13,8 @@ permalink: /publications/
 
 
 ## Other First-Author
+- **Binyu Zhao**<sup>✉</sup>, Wei Zhang<sup>✉</sup>, Zhaonian Zou. Facilitating Heterogeneous Sensor Information Cooperation in Multi-Agent Perception System. *Information Sciences*, 2026. [[DOI]](https://doi.org/10.1016/j.ins.2026.123529) [[Code]](https://github.com/byzhaoAI/DisCo)
+
 - **Binyu Zhao**, Wei Zhang<sup>✉</sup>, Zhaonian Zou. ExGAT: Build Explicit Dependencies for Incomplete Multi-Modal Learning via Graph Attention Network. In *2025 IEEE International Conference on Multimedia and Expo (ICME)*, 2025. [[DOI]](https://doi.org/10.1109/ICME59968.2025.11209190) [[Code]](https://github.com/byzhaoAI/ExGAT)
 
 - **Binyu Zhao**, Wei Zhang<sup>✉</sup>, Zhaonian Zou. Distance-Aware Attentive Framework for Multi-Agent Collaborative Perception in Presence of Pose Error. In *The 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*, 2024. [[URI]](https://dl.acm.org/doi/abs/10.5555/3635637.3663242)

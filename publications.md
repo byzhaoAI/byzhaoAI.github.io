@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ## Representative First-Author
-- Binyu Zhao, Wei Zhang, Xingrui Yu, Zhaonian Zou, Ivor Tsang. Advancing Analytic Class-Incremental Learning through Vision-Language Calibration. In *International Conference on Machine Learning (ICML)*, 2026. [~~[URI]~~]() [~~[OpenReview]~~]() [[Arxiv]](https://arxiv.org/abs/2602.13670) [[Code]](https://github.com/byzhaoAI/VILA)
+- **Binyu Zhao**, Wei Zhang<sup>✉</sup>, Xingrui Yu<sup>✉</sup>, Zhaonian Zou, Ivor Tsang. Advancing Analytic Class-Incremental Learning through Vision-Language Calibration. In *International Conference on Machine Learning (ICML)*, 2026. [~~[URI]~~]() [~~[OpenReview]~~]() [[Arxiv]](https://arxiv.org/abs/2602.13670) [[Code]](https://github.com/byzhaoAI/VILA)
 
 - **Binyu Zhao**<sup>✉</sup>, Wei Zhang<sup>✉</sup>, Zhaonian Zou. MCE: Towards a General Framework for Handling Missing Modalities under Imbalanced Missing Rates. *Pattern Recognition*, 2025. [[DOI]](https://doi.org/10.1016/j.patcog.2025.112591) [[Arxiv]](https://arxiv.org/abs/2510.10534) [[Code]](https://github.com/byzhaoAI/MCE)
 

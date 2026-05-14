@@ -17,7 +17,8 @@ permalink: /service/
 
 ## Academic Services
 
-- Reviewer of ICML (2026), NeurIPS (2026), CVPR (2026), ECCV (2026), ACM MM (2024)
+- **Silver Reviewer (Top Reviewer), ICML 2026**
+- Reviewer of NeurIPS (2026), CVPR (2026), ECCV (2026), ACM MM (2024)
 - Reviewer of ICME (2025, 2026), ICASSP (2022-2024, 2026)
 - Reviewer of ICIP (2022-2024, 2026), ICANN (2022-2023)
 - Reviewer of AIAI (2024-2026), ICECET (2026), ACDSA (2025)

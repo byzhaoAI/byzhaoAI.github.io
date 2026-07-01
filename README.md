@@ -9,6 +9,7 @@ permalink: /about/
 - Multi-Agent Systems
 - Robotics
 - Embodided AI
+- Multi-Modal Learning
 - Signal Processing
 
 ## News

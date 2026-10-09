@@ -35,7 +35,7 @@ permalink: /about/
 <!-- Feel free to explore my articles and projects on this site! -->
 
 <details>
-<summary>Past PhD experience and previous research</summary>
+<summary>PhD experience</summary>
 
 <strong>Binyu Zhao</strong> completed his PhD in Electronic Information at Harbin Institute of Technology (HIT), where he was supervised by Prof. <a href="https://homepage.hit.edu.cn/zhangweics">Wei Zhang</a> and Prof. <a href="https://homepage.hit.edu.cn/zou">Zhaonian Zou</a>. He also collaborated with <a href="https://xingruiyu.github.io/">Xingrui Yu</a> on joint research projects. His PhD research mainly focused on:
 
@@ -45,6 +45,18 @@ permalink: /about/
   <li>Embodied AI</li>
   <li>Multi-Modal Learning</li>
   <li>Signal Processing</li>
+</ul>
+
+</details>
+
+<details>
+<summary>Master experience</summary>
+
+<p><strong>Binyu Zhao</strong> received his Master's degree in Software Engineering from Heilongjiang University (HLJU), where he was supervised by Prof. <a href="https://jsj.hlju.edu.cn/info/1100/2692.htm">Qianqian Ren</a> and Prof. <a href="https://cpnis.qlu.edu.cn/2024/0320/c12812a239176/page.htm">Jinbao Li</a>. His Master's research mainly focused on:</p>
+
+<ul>
+  <li>Medical Image Reconstruction</li>
+  <li>Medical Image Processing</li>
 </ul>
 
 </details>

@@ -37,7 +37,7 @@ permalink: /about/
 <details>
 <summary>Past PhD experience and previous research</summary>
 
-**Binyu Zhao** completed his PhD in Electronic Information at Harbin Institute of Technology (HIT), where he was supervised by Prof. [Wei Zhang](https://homepage.hit.edu.cn/zhangweics) and Prof. [Zhaonian Zou](https://homepage.hit.edu.cn/zou). He also collaborated with [Xingrui Yu](https://xingruiyu.github.io/) on joint research projects. His PhD research mainly focused on:
+<strong>Binyu Zhao</strong> completed his PhD in Electronic Information at Harbin Institute of Technology (HIT), where he was supervised by Prof. <a href="https://homepage.hit.edu.cn/zhangweics">Wei Zhang</a> and Prof. <a href="https://homepage.hit.edu.cn/zou">Zhaonian Zou</a>. He also collaborated with <a href="https://xingruiyu.github.io/">Xingrui Yu</a> on joint research projects. His PhD research mainly focused on:
 
 - Multi-Agent Systems
 - Robotics

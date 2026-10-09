@@ -4,20 +4,15 @@ title: About Me
 permalink: /about/
 ---
 
-**Binyu Zhao** is currently pursuing his PhD in Electronic Information Engineering at Harbin Institute of Technology (HIT). He is supervised by Prof. [Wei Zhang](https://homepage.hit.edu.cn/zhangweics) and Prof. [Zhaonian Zou](https://homepage.hit.edu.cn/zou). And he is collaborating with [Xingrui Yu](https://xingruiyu.github.io/) on joint research projects. His research mainly focus on:
+**Binyu Zhao** is an incoming postdoctoral researcher at the National University of Defense Technology (NUDT). He will work on Geographic Information. His field is Signals and Information Processing.
 
-- Multi-Agent Systems
-- Robotics
-- Embodided AI
-- Multi-Modal Learning
-- Signal Processing
 
 ## News
 - One paper is accepted by *ICML2026* (May 01, 2026).
 - One paper is accepted by *Information Sciences* (Apr 16, 2026).
-- One paper is resubmitted to *Information Sciences* after a revision (initially submitted Apr 02, 2025; resubmitted Dec 14, 2025; 2nd resubmitted Jan 18, 2026; 3rd resubmitted Mar 25, 2026; 4th resubmitted Apr 14, 2026).
-- One paper is submitted to *ICML2026* (Jan 29, 2026).
-- One paper is published in *Pattern Recognition* (Nov 08, 2025).
+<!-- - One paper is resubmitted to *Information Sciences* after a revision (initially submitted Apr 02, 2025; resubmitted Dec 14, 2025; 2nd resubmitted Jan 18, 2026; 3rd resubmitted Mar 25, 2026; 4th resubmitted Apr 14, 2026). -->
+<!-- - One paper is submitted to *ICML2026* (Jan 29, 2026). -->
+<!-- - One paper is published in *Pattern Recognition* (Nov 08, 2025). -->
 <!-- - One paper is resubmitted to *Information Sciences* after a major revision (initially submitted April 02; resubmitted December 14). -->
 <!-- - One paper is published in *Pattern Recognition* (November 08). The final version is available via [DOI](https://doi.org/10.1016/j.patcog.2025.112591), or for 50 days' free access via this [Share Link](https://authors.elsevier.com/a/1m40D77nKsBm-) (valid until December 28, 2025). -->
 <!-- - Two patents (co-inventor) are entered the substantive examination phase at the *CNIPA* (October 09). -->
@@ -33,3 +28,16 @@ permalink: /about/
 
 ## More
 <!-- Feel free to explore my articles and projects on this site! -->
+
+<details>
+<summary>Past PhD experience and previous research</summary>
+
+**Binyu Zhao** completed his PhD in Electronic Information at Harbin Institute of Technology (HIT), where he was supervised by Prof. [Wei Zhang](https://homepage.hit.edu.cn/zhangweics) and Prof. [Zhaonian Zou](https://homepage.hit.edu.cn/zou). He also collaborated with [Xingrui Yu](https://xingruiyu.github.io/) on joint research projects. His PhD research mainly focused on:
+
+- Multi-Agent Systems
+- Robotics
+- Embodided AI
+- Multi-Modal Learning
+- Signal Processing
+
+</details>

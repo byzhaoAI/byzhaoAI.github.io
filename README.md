@@ -4,7 +4,12 @@ title: About Me
 permalink: /about/
 ---
 
-**Binyu Zhao** is an incoming postdoctoral researcher at the National University of Defense Technology (NUDT). He will work on Geographic Information. His field is Signals and Information Processing.
+**Binyu Zhao** is an incoming postdoctoral researcher at the National University of Defense Technology (NUDT). He will work on Geographic Information Science. His field is Signals and Information Processing, and research mainly focus on:
+
+- Multi-Agent Systems
+- Multi-Modal Learning
+- Continual Learning
+- Signal Processing
 
 
 ## News
@@ -36,7 +41,7 @@ permalink: /about/
 
 - Multi-Agent Systems
 - Robotics
-- Embodided AI
+- Embodied AI
 - Multi-Modal Learning
 - Signal Processing
 

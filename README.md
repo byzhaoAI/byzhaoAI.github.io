@@ -39,10 +39,12 @@ permalink: /about/
 
 <strong>Binyu Zhao</strong> completed his PhD in Electronic Information at Harbin Institute of Technology (HIT), where he was supervised by Prof. <a href="https://homepage.hit.edu.cn/zhangweics">Wei Zhang</a> and Prof. <a href="https://homepage.hit.edu.cn/zou">Zhaonian Zou</a>. He also collaborated with <a href="https://xingruiyu.github.io/">Xingrui Yu</a> on joint research projects. His PhD research mainly focused on:
 
-- Multi-Agent Systems
-- Robotics
-- Embodied AI
-- Multi-Modal Learning
-- Signal Processing
+<ul>
+  <li>Multi-Agent Systems</li>
+  <li>Robotics</li>
+  <li>Embodied AI</li>
+  <li>Multi-Modal Learning</li>
+  <li>Signal Processing</li>
+</ul>
 
 </details>
